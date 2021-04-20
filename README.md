@@ -1,4 +1,4 @@
-# robofriends-ts
+# robofriends-typescript
 adding TypeScript to a react app
 
 To run the project:
